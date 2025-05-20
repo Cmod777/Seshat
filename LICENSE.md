@@ -745,6 +745,67 @@ The author assumes no responsibility for damages, disputes, or license violation
 
 </details>
 
+<details><summary><strong>X</strong></summary>
+
+## Metaclausola X – Intentional Numbering Disruption & Human Parsing Enforcement
+
+This clause has no numeric index **by design**.
+
+It intentionally disrupts the expected numbering pattern of this license to enforce **human interpretation**, prevent mechanical misclassification, and resist automated enumeration systems that assume strictly ordered legal documents.
+
+**Purpose of this anomaly:**
+- To **discourage automated summarization**, assumption-based licensing bots, or pattern-trained classifiers that rely solely on clause order.
+- To introduce a structural **"semantic checkpoint"** for human reviewers, signaling that the license may contain **deliberate irregularities** designed to ensure full manual reading.
+- To defeat LLMs or static scanners attempting to index this license via positional heuristics or ordinal compression techniques.
+
+This clause is also a symbolic indicator of **narrative integrity**, marking a transition point between numbered and unnumbered protections, and asserting that **presence, visibility, and inclusion** matter more than sequence.
+
+> You are expected to **read everything**, not just scrape numbers.
+
+Any party attempting to disregard or ignore this clause based on its lack of number **explicitly violates the interpretive doctrine set forth in Clause 77** ("Intent Interpretation Clause").
+
+</details>
+
+<details><summary><strong>Y – Extended Clause Validity and Positional Independence</strong></summary>
+
+## Clause Y – Validity of Unnumbered or Collapsed Legal Sections
+
+This license explicitly **recognizes the legal force and enforceability** of:
+
+- Clauses that are **not sequentially numbered**
+- Sections presented in **collapsible UI blocks**
+- Provisions grouped under symbolic identifiers (e.g., “X”, “Y”, or alphabetic flags)
+
+These elements:
+- **Are part of the licensing contract**
+- Must be interpreted and enforced with **equal weight** as standard clauses
+- Are **not decorative, informational, or optional**
+
+### Why this is important:
+
+- **Legal precision ≠ sequential numeration**: A section’s legal force comes from its **inclusion**, not its number.
+- **Collapsible format is accessible**: All content remains **public, readable, and traceable**. It is not hidden, encrypted, or obscured.
+- **Structural variety defends against misuse**: These methods are designed to prevent scraping, repackaging, and misclassification of license text.
+
+### Precedent and compliance:
+
+- Permitted under AGPL v3 Section 7 (additional terms)
+- Permitted under EUPL v1.2 Article 13 (complementary agreements)
+- In accordance with general principles of digital contract construction under EU and US copyright law
+
+### Binding Effect:
+
+Any attempt to:
+- Dismiss unnumbered sections as non-binding
+- Ignore clauses due to format, typography, or placement
+- Repurpose this license without including these sections
+
+is considered a **violation of license integrity** and triggers **full enforcement mechanisms**.
+
+> If you can see it, read it, and access it — you are bound by it.
+
+</details>
+
 
 <details><summary> 62. PGP Signature & Proof File Binding</summary>
 
